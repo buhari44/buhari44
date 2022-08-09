@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/adeyemibuhari3" target="blank"><img src="https://img.shields.io/twitter/follow/adeyemibuhari3?logo=twitter&style=for-the-badge" alt="adeyemibuhari3" /></a> </p>
 
-- 🔭 I’m currently working on [Forbes](https://afrikaforbes.netlify.app/)
+- 🔭 Helping organizations to migrate from on prem to cloud
 
 - 🌱 I’m currently learning Cloud Engineering @altschool
 - 👯 I’m looking to collaborate on open source project to add more features [Study Made Easy](https://savethenextjambites.netlify.app/)
