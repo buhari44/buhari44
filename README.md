@@ -29,11 +29,11 @@ You can click the Preview link to take a look at your changes.
 
 - 📝 I regularly write articles on [https://free.hashnode.dev/](https://free.hashnode.dev/)
 
-- 💬 Ask me about Web development **HTML, CSS ,JAVASCRIPT**
+- 💬 Ask me about Web development,Cloud/Devop Engineering
 
 - 📫 How to reach me **adeyemibuari@gmail.com**
 
-- ⚡ Fun fact **I am funny and hardworking**
+- ⚡ Fun fact ** I love others than myself**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
