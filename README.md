@@ -1,8 +1,8 @@
 <!--
 - 👋 Hi, I’m @buhari44
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on JavaScript
+- 👀 Interested in shipping softwares to the cloud
+- 🌱 Student @AltschoolAfrica
+- 💞️ I’m looking to collaborate on JavaScript and cloud technologies
 - 📫 How to reach me 
 Email: adeyemibuari@gmail.com
 Contact:07053349204
@@ -11,8 +11,8 @@ Contact:07053349204
 buhari44/buhari44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm AfrikaTekBoy</h1>
-<h3 align="center">A passionate frontend developer from Nigeria ,I love to collaborate and make friends on this platform with the aim of contributing to open source project</h3>
+<h1 align="center">Hi 👋, I'm Adeyemi</h1>
+<h3 align="center">A passionate junior Cloud/Devops Engineer from Nigeria ,I love to collaborate and make friends on this platform with the aim of contributing to open source project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buhari44&label=Profile%20views&color=0e75b6&style=flat" alt="buhari44" /> </p>
 
@@ -22,8 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on [Forbes](https://afrikaforbes.netlify.app/)
 
-- 🌱 I’m currently learning Javascript **Udemy courses**
-
+- 🌱 I’m currently learning Cloud Engineering @altschool
 - 👯 I’m looking to collaborate on open source project to add more features [Study Made Easy](https://savethenextjambites.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [adeyemibuhari2021.netlify.app](adeyemibuhari2021.netlify.app)
